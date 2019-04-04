@@ -1,0 +1,945 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"V",
+				"V"
+			],
+			[
+				"objP",
+				"objPtc"
+			],
+			[
+				"obj",
+				"objPtc"
+			],
+			[
+				"W",
+				"W"
+			],
+			[
+				"Bf",
+				"BF_all"
+			],
+			[
+				"D",
+				"D"
+			],
+			[
+				"B",
+				"BF_all"
+			],
+			[
+				"ps",
+				"ps"
+			],
+			[
+				"BF",
+				"BF"
+			],
+			[
+				"z",
+				"z"
+			],
+			[
+				"pct",
+				"pcaTrain"
+			],
+			[
+				"line",
+				"lineWidth"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"sequenc",
+				"sequence_actions"
+			],
+			[
+				"backgroudn",
+				"background-position"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"idx",
+				"idx"
+			],
+			[
+				"frame",
+				"frame_end"
+			],
+			[
+				"cut",
+				"cut2"
+			],
+			[
+				"fra",
+				"frame_start"
+			],
+			[
+				"fram",
+				"frame_length"
+			],
+			[
+				"fram_",
+				"frame_length"
+			],
+			[
+				"kER",
+				"KernelFunction"
+			],
+			[
+				"aver",
+				"average1"
+			],
+			[
+				"avera",
+				"average1"
+			],
+			[
+				"gene",
+				"generate_dataset"
+			],
+			[
+				"titl",
+				"title_cm"
+			],
+			[
+				"gener",
+				"generateDataset2"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"file",
+				"filename_log"
+			],
+			[
+				"str",
+				"strcat"
+			],
+			[
+				"test",
+				"testModGrafMSRAction"
+			],
+			[
+				"testB",
+				"testBagOfFeaturesMSRAction"
+			],
+			[
+				"MSR",
+				"MSRaction"
+			],
+			[
+				"str_file",
+				"str_file_matrix"
+			],
+			[
+				"els",
+				"elseif	elseif"
+			],
+			[
+				"sum",
+				"sumMvar"
+			],
+			[
+				"jun",
+				"juntasDM"
+			],
+			[
+				"str_fi",
+				"str_file_matrix"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"address_",
+				"address_neighboorhood"
+			],
+			[
+				"authe",
+				"authentication"
+			],
+			[
+				"train",
+				"Training"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"t",
+				"tamanho"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"boletos",
+				"boletos"
+			],
+			[
+				"svm",
+				"svmStruct"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"F",
+				"F"
+			],
+			[
+				"number_",
+				"number_parcela"
+			],
+			[
+				"errr",
+				"errors"
+			],
+			[
+				"star",
+				"start_day_february"
+			],
+			[
+				"paymen",
+				"payment"
+			],
+			[
+				"boleto",
+				"boletoCEF"
+			],
+			[
+				"search",
+				"search"
+			],
+			[
+				"sql_",
+				"sql_customers"
+			],
+			[
+				"sql",
+				"sql_customers"
+			],
+			[
+				"arra",
+				"array_combine"
+			],
+			[
+				"sta",
+				"statements"
+			],
+			[
+				"number",
+				"number_parcela"
+			],
+			[
+				"tota",
+				"total_parcelas"
+			],
+			[
+				"pla",
+				"Plano"
+			],
+			[
+				"isNu",
+				"is_numeric"
+			],
+			[
+				"OS_rota",
+				"OS_rota_tempo"
+			],
+			[
+				"pontes_sta",
+				"pontes_status_detalhe"
+			],
+			[
+				"trans",
+				"tran_pontes"
+			],
+			[
+				"n_var",
+				"n_vardecisao"
+			],
+			[
+				"Ske",
+				"Ske"
+			],
+			[
+				"Bole",
+				"BoletoCEF"
+			],
+			[
+				"state",
+				"statement"
+			],
+			[
+				"htm",
+				"html_page"
+			],
+			[
+				"html_bol",
+				"html_boletos"
+			],
+			[
+				"html",
+				"html_boleto"
+			],
+			[
+				"html_",
+				"html_boletos"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"quan",
+				"quantity_customers"
+			],
+			[
+				"rece",
+				"received_date"
+			],
+			[
+				"payment",
+				"payment_date"
+			],
+			[
+				"City",
+				"city"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.m",
+			"settings":
+			{
+				"buffer_size": 1912,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main_mod.m",
+			"settings":
+			{
+				"buffer_size": 1126,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/test.m",
+			"settings":
+			{
+				"buffer_size": 1958,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "matrixTransition.m",
+			"settings":
+			{
+				"buffer_size": 906,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "viterbi.m",
+			"settings":
+			{
+				"buffer_size": 1145,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/covarianceMatrixLoad.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/covarianceClusters.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tuningSvm.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/test.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/bestResults.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/classParamProgram.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/dlfun.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/databases/drawsktMSRAction3Dskeleton.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/classificatorTrain.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/protocol_choice.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/dividePosesToTrainingAndTest.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/main.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/protocol_1.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/config/loadParametersMSRAction.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/protocol_2.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/loadDatabase.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/protocol_3.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/classProtocol.m",
+		"/home/gustavo/Área de Trabalho/Engenharia de Sistemas/8° Periodo/Controle/PROJETO BALL&BEAM/TERCEIRA ETAPA/codigo/metodoRouth.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/protocol_4.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/protocol_8.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/readLog.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/filterSkeletonVariational.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/kmeans2.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/matrixTransitionByAction.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/applyFilterDimension.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/minorvarianceColumns.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/pcaTrain.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/filterDistances.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/ClassParam.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/buildDistanceMatrixByMSRAction3DSkeletonReal.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/buildDistanceMatrixByMSRDailyAct3D.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/main_dp.m",
+		"/home/gustavo/teste/semaforos/main.c",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/sequenceActions.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/matrixTransition.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/sparse_coding/ex300.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/sparseapprox.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/main0.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/spams-matlab/build/mexOMP.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/spams-matlab/start_spams.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/spams-matlab/startup.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/sparse_coding/sparseapprox.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/histogramByClusters.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/spams-matlab/compile.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/dictnormalize.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/normalization.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/idx_near.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/classificatorTest.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/ex300.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/data/classificator/01.mat",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/normalizeBySubject.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/viterbi.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/filterClusterTrain2.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/filterClusterTrain.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/skeletonsWrong.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/covarianceMatrix.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/bagOfFeatures.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/sortVectorFramesByClusters.m",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/spax.sublime-project",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/company_datas/edit.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/database/migrations/2016_09_08_125347_add_comission_to_config_table.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Models/Configuration.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/comission/edit.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Http/routes.php",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tuningSvm",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/filterClusterTest.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/histogramClustersTrain.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/protocol_7.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/tests/protocol_6.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/analise/descritorPose.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/analise/distanceMatrix.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/pcaTest.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/paramGenerateDataset1.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/paramGenerateDataset2.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/paramGenerateDataset3.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/analise/analisePCA.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/analise/analiseClusters.m",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/users/show.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/users/form.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/users/create.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Http/Controllers/UserController.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/auth/register.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Http/Middleware/Authenticate.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/app.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/auth/login.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/auth/password.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/auth/reset.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/config/app.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Models/User.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Http/Kernel.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/users/index.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/composer.json",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/User.php",
+		"/home/gustavo/Área de Trabalho/Estudo/Engenharia de Sistemas/7° Periodo/Metodos computacionais/Integração Numérica/regra-trapezios.m",
+		"/home/gustavo/Área de Trabalho/Estudo/Engenharia de Sistemas/7° Periodo/Metodos computacionais/Integração Numérica/index.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/analise/showConfusionMatrix.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/confusionMatrix",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/error_skeletons.txt",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/buildDistanceMatrixByMSRAction3DSkeleton.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/covarianceMatrixSave.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/README.md",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/matrixTransitionLoad.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/contributors.txt",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/descritor_pose/detailsDescritorPose.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/ModGraf_training.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/ModGraf_testers.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/BoF_testers.m",
+		"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib/BoF_training.m",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Http/Controllers/DependentController.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/generate_cards/show.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/generate_cards/create.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Http/Controllers/GenerateCardController.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Http/Controllers/CustomerController.php",
+		"/home/gustavo/Dropbox/vhosts/paxplan.app/public/phpinfo.php",
+		"/home/gustavo/Dropbox/vhosts/paxplan.app/public/send-mail.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/generate_boletos/carne-caixa.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/generate_boletos/caixa.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Models/BoletoCEF.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Http/Controllers/GenerateBoletoController.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/vendor/kriansa/openboleto/resources/views/default-carne.phtml",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/resources/views/layouts/master.blade.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/vendor/kriansa/openboleto/resources/css/styles.css",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Http/Controllers/StatementController.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Http/Controllers/PrintBoletoController.php",
+		"/home/gustavo/Dropbox/vhosts/teslageradores.app/construcao/index.php",
+		"/home/gustavo/Dropbox/vhosts/spaxv5.app/app/Models/Customer.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/gustavo/Dropbox/Iniciacao Cientifica/Programa/Lib",
+			"/home/gustavo/Dropbox/vhosts/spax.app/",
+			"/home/gustavo/Dropbox/vhosts/spax.app/app/",
+			"/home/gustavo/Dropbox/vhosts/spax.app/app/views",
+			"/home/gustavo/vhosts/spax.app/app/",
+			"/home/gustavo/vhosts/spax.app/app/models",
+			"/home/gustavo/vhosts/spax.app/app/views",
+			"/home/gustavo/vhosts/spax.app/vendor/umbrella",
+			"/home/gustavo/vhosts/spax.app/vendor/barryvdh/laravel-snappy/src/Barryvdh/Snappy",
+			"/home/gustavo/vhosts/spax.app/app/database",
+			"/home/gustavo/vhosts/spax.app/app/controllers",
+			"/home/gustavo/vhosts/spax.app/app/views",
+			"/home/gustavo/vhosts/spax.app/vendor/laravel/framework/src/Illuminate/Database",
+			"/home/gustavo/vhosts/spax.app/vendor/kriansa/openboleto",
+			"/home/gustavo/vhosts/spax.app/vendor/kriansa/openboleto/src",
+			"/home/gustavo/vhosts/spax.app/vendor/kriansa/openboleto",
+			"/home/gustavo/vhosts/spax.app/vendor/kriansa/openboleto/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"conti",
+			"PTc",
+			" L",
+			"L",
+			"=  [1,1,1]",
+			"	[u,s,v]=svd(C); %Singular value decomposition;\n",
+			"start_",
+			"start",
+			"mexLas",
+			"mexOMP\n\n\nmexOMP\nmexOMP",
+			"mexLass",
+			"build",
+			"ps",
+			"sparseap",
+			"spam",
+			" \n",
+			"75",
+			"ps",
+			"app",
+			"regis",
+			"User",
+			"plot",
+			"pause",
+			"-1.6834   -1.6834   -1.6834   -1.6834   -1.6834",
+			"iden",
+			"ide",
+			"layout",
+			"$n",
+			"obj",
+			"posit",
+			"contra",
+			"\n$",
+			"namefi",
+			"padd\n\nmargin",
+			".navbar",
+			".navbar active",
+			".navbar",
+			"hover",
+			"active",
+			"bod",
+			".navbar",
+			"300",
+			"media_before_norm",
+			"juntasDM",
+			"V",
+			"\n	",
+			"V",
+			"test",
+			"Open",
+			"');\n",
+			"endere",
+			"ender",
+			"ENDERECO",
+			"V",
+			"');",
+			"410527",
+			"530354",
+			"end",
+			"pause",
+			"svmStruct",
+			"config",
+			"IdeHelper",
+			"Thujohn",
+			"        \n",
+			"quanti",
+			"pull-ri",
+			"plan_ty",
+			"get_type_person",
+			"text-\n",
+			"muted\n",
+			"#777",
+			"muted",
+			"            ",
+			"console",
+			"file",
+			"'\n",
+			"ui-auto",
+			"28.12.2015",
+			"get_next_due_date",
+			"FinanceCategory",
+			"FinanceCategory::where",
+			");\n",
+			"updateIdentifyTitle",
+			"get_boleto",
+			"get_many_html_outputs",
+			"html_to_pdf",
+			"get_boletos",
+			"get_many_html_outputs",
+			"lp = A(linha,:)/A(linha,coluna);",
+			"Mask",
+			"mask",
+			"statement",
+			"done",
+			"17",
+			"header_colun",
+			"dd",
+			"provider",
+			"700",
+			"logo",
+			"logo\n\n\nlogo",
+			"logo",
+			"resolution",
+			"dpi",
+			"Fator",
+			"boleto",
+			"DataVencimento",
+			"fator",
+			"fatorv",
+			"funct",
+			"::W",
+			"has('err",
+			"identify_t",
+			"        $",
+			"boleto",
+			"bol",
+			"Bol",
+			"Bo",
+			"Bol",
+			"bol",
+			"Bo",
+			"Boleto",
+			"boot()",
+			"set_pay",
+			"identi",
+			"identify_",
+			"RG",
+			"sr",
+			"24\n\n\n\n\n\n\nSR"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"30",
+			"param",
+			"header_line",
+			"paxplan"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.m",
+					"settings":
+					{
+						"buffer_size": 1912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Matlab/Matlab.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 456.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main_mod.m",
+					"settings":
+					{
+						"buffer_size": 1126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Matlab/Matlab.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tests/test.m",
+					"settings":
+					{
+						"buffer_size": 1958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								449,
+								449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Matlab/Matlab.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "matrixTransition.m",
+					"settings":
+					{
+						"buffer_size": 906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Matlab/Matlab.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "viterbi.m",
+					"settings":
+					{
+						"buffer_size": 1145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Matlab/Matlab.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 627.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"classificatorTest.m"
+			],
+			[
+				"auten",
+				"app/Http/Middleware/Authenticate.php"
+			],
+			[
+				"plantype",
+				"app/models/PlanType.php"
+			],
+			[
+				"loadp",
+				"ModelagemGrafica/tests/loadParameters.m"
+			],
+			[
+				"barrypdf",
+				"vendor/barryvdh/laravel-snappy/src/Barryvdh/Snappy/PdfWrapper.php"
+			],
+			[
+				"snap",
+				"vendor/barryvdh/laravel-snappy/src/Barryvdh/Snappy/Facades/SnappyPdf.php"
+			],
+			[
+				"identify",
+				"app/views/statements/create_identify_title.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 744.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/gustavo/Dropbox/vhosts/paxplan.app/paxplan.sublime-project"
+			]
+		],
+		"width": 1366.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 443.0,
+	"status_bar_visible": true
+}
