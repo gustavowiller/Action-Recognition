@@ -1,0 +1,8 @@
+function showDistanceMatrix(M,t)
+	n = size(M,1); 
+	
+	for i = 1:n
+		MT = reshape(M(i,:,:),20,20);
+		surf(MT);axis([1 20 1 20]);
+		pause(t);
+	end

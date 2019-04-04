@@ -1,0 +1,5 @@
+		%Building Geral confusion Matrix.
+		for(i=1:nA)
+			MC1(A2(a,DA(i,1)),A2(a,R(i,1))) = MC1(A2(a,DA(i,1)),A2(a,R(i,1))) + 1; 
+			MC2(A2(a,DA(i,1)),A2(a,R(i,2))) = MC2(A2(a,DA(i,1)),A2(a,R(i,2))) + 1;  
+		end
